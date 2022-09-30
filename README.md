@@ -13,8 +13,33 @@ git status
 git log
 
 git add <file>..." to update what will be committed)
+git add  .            to add all files in folder
 git commit -am "add a heading"
 
 
 get pull
 Merge conflict on 27 minute of https://www.youtube.com/watch?v=NcoBAfJ6l2Q
+
+About git https://cs50.harvard.edu/web/2020/weeks/1/
+
+
+
+
+
+About Benford law https://towardsdatascience.com/frawd-detection-using-benfords-law-python-code-9db8db474cf8
+
+
+
+Blog https://www.blogger.com/blog/post/edit/8797569608388861585/5661649244021925294
+
+
+___________________________________________________________
+Our approach:
+CRISP-DM Process (Cross Industry Process for Data Mining)
+
+1. Business Understanding - This means understanding the problem and questions we are interested in tackling in the context of whatever domain we're working in. 
+
+
+2. Data Understanding - At this step, we need to move the questions from Business Understanding to data. We might already have data that could be used to answer the questions, or we might have to collect data to get at our questions of interest.
+
+
