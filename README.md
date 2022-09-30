@@ -18,3 +18,16 @@ git commit -am "add a heading"
 
 get pull
 Merge conflict on 27 minute of https://www.youtube.com/watch?v=NcoBAfJ6l2Q
+
+About git https://cs50.harvard.edu/web/2020/weeks/1/
+
+
+
+
+
+About Benford law https://towardsdatascience.com/frawd-detection-using-benfords-law-python-code-9db8db474cf8
+
+
+
+Blog https://www.blogger.com/blog/post/edit/8797569608388861585/5661649244021925294
+
