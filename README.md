@@ -1,4 +1,4 @@
-# BlogPostProjectStackOverflow1
+# BlogPostprojectBenfordLawFrom Wikidata
 Udacity Blog Post Project about at Stack Overflow1 annual reports from 2017-2021
 
 
@@ -32,6 +32,7 @@ About Benford law https://towardsdatascience.com/frawd-detection-using-benfords-
 
 Blog https://www.blogger.com/blog/post/edit/8797569608388861585/5661649244021925294
 
+Udacity tutorial  materials are at: https://github.com/udacity/cd0017-introduction-to-data-science.git
 
 ___________________________________________________________
 Our approach:
