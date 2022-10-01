@@ -32,7 +32,11 @@ About Benford law https://towardsdatascience.com/frawd-detection-using-benfords-
 
 Blog https://www.blogger.com/blog/post/edit/8797569608388861585/5661649244021925294
 
+<<<<<<< HEAD
 Udacity tutorial  materials are at: https://github.com/udacity/cd0017-introduction-to-data-science.git
+=======
+<<<<<<< HEAD
+>>>>>>> 4922804e16d332daad9d425b1a4dd31cfd583857
 
 ___________________________________________________________
 Our approach:
@@ -44,3 +48,8 @@ CRISP-DM Process (Cross Industry Process for Data Mining)
 2. Data Understanding - At this step, we need to move the questions from Business Understanding to data. We might already have data that could be used to answer the questions, or we might have to collect data to get at our questions of interest.
 
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2953af05c50e173a52e61b21bc8949b7eadf9900
+>>>>>>> 4922804e16d332daad9d425b1a4dd31cfd583857
