@@ -1,5 +1,27 @@
 # BlogPostprojectBenfordLawFrom Wikidata
-Udacity Blog Post Project about at Stack Overflow1 annual reports from 2017-2021
+1. Business Understanding - This means understanding the problem and questions we are interested in tackling in the context of whatever domain we're working in.
+
+My motivation has been to learn how to 
+
+a) reuse wikipedia data
+b) check wikipedia data quality
+c) pass Udacity blog project requirements
+
+
+
+
+
+
+2. Data Understanding - At this step, we need to move the questions from Business Understanding to data. We might already have data that could be used to answer the questions, or we might have to collect data to get at our questions of interest.
+
+a) reuse wikipedia data
+ aa) wikipedia presentation is based on wikidata https://www.wikidata.org/wiki/Wikidata:Main_Page  graph model, which allows to query through special wikidata sparql https://query.wikidata.org/. 
+
+ ab)I was looking for some complete dataset of numeric data and I have found , that population by state and city population are rather complete and of good quality. I expected potentionaly differencs based on continents, so I included this data segmentation. 
+
+
+
+
 
 
 Benford law based on explication by:
@@ -42,10 +64,10 @@ ___________________________________________________________
 Our approach:
 CRISP-DM Process (Cross Industry Process for Data Mining)
 
-1. Business Understanding - This means understanding the problem and questions we are interested in tackling in the context of whatever domain we're working in. 
 
 
-2. Data Understanding - At this step, we need to move the questions from Business Understanding to data. We might already have data that could be used to answer the questions, or we might have to collect data to get at our questions of interest.
+
+
 
 
 <<<<<<< HEAD
