@@ -1,11 +1,40 @@
 # BlogPostprojectBenfordLawFrom Wikidata
+
+Blog can be found here:
+https://zdenekq.blogspot.com/2022/09/benfordlaw .html
+
+
+Used libraries:
+
+#import libraries
+import pandas as pd
+import numpy as np
+import math
+
+from collections import defaultdict
+
+import sys
+import math
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+from SPARQLWrapper import SPARQLWrapper, JSON
+from SPARQLWrapper import SPARQLWrapper2
+
+
+
+
+
+
+
 1. Business Understanding - This means understanding the problem and questions we are interested in tackling in the context of whatever domain we're working in.
 
 My motivation has been to learn how to 
 
-a) reuse wikipedia data
+a) reuse wikipedia data and learn about wikidata and query language sparql
 b) check wikipedia data quality
 c) pass Udacity blog project requirements
+d) Learn about Benford law and show, that this law can be applied in practice
 
 
 
@@ -21,57 +50,16 @@ a) reuse wikipedia data
 
 
 
+3. The files in the repository:
+   a) The jupyter notebeook file Population.ipynb contains code
+   b) The file wikidata_population. csv containes the following columns from wikidata:
+    country	continent	totalCityPopulation	population	ratio
 
 
+4. Summary:
+   We were able to query data at wikidata for country population and we were able to prove, that these data behaves accordint to Benford's law prediction
 
-Benford law based on explication by:
-Benfordův zákon - Jak nás klame intuice 3 - s Mirko Rokytou ()
-Benfordův zákon - pokračování - Jak nás klame intuice 4 - S Mirko Rokytou (https://www.youtube.com/watch?v=f1oO_F9QN_s)
-
-
-Git tutorial
-info:
-git status
-git log
-
-git add <file>..." to update what will be committed)
-git add  .            to add all files in folder
-git commit -am "add a heading"
+5. Acknowledgement: I would like to acknowlwdge explanation of Benford law by Mr. Rokyta and Mr. Valášek: https://www.youtube.com/watch?v=2wZslU6P94o
 
 
-get pull
-Merge conflict on 27 minute of https://www.youtube.com/watch?v=NcoBAfJ6l2Q
-
-About git https://cs50.harvard.edu/web/2020/weeks/1/
-
-
-
-
-
-About Benford law https://towardsdatascience.com/frawd-detection-using-benfords-law-python-code-9db8db474cf8
-
-
-
-Blog https://www.blogger.com/blog/post/edit/8797569608388861585/5661649244021925294
-
-<<<<<<< HEAD
-Udacity tutorial  materials are at: https://github.com/udacity/cd0017-introduction-to-data-science.git
-=======
-<<<<<<< HEAD
->>>>>>> 4922804e16d332daad9d425b1a4dd31cfd583857
-
-___________________________________________________________
-Our approach:
-CRISP-DM Process (Cross Industry Process for Data Mining)
-
-
-
-
-
-
-
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 2953af05c50e173a52e61b21bc8949b7eadf9900
->>>>>>> 4922804e16d332daad9d425b1a4dd31cfd583857
+README.md file that communicates the libraries used, the motivation for the project, the files in the repository with a small description of each, a summary of the results of the analysis, and necessary acknowledgements. 
